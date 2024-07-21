@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "지원이의 사이트"
+title                    : "Jiwon's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "오지원"
+name                     : "Your name"
 description              : "지원이의 고딩생활"
 url                      : "https://rainclue0.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
