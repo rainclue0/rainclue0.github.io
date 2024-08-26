@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "지원이의 블로그"
 title_separator          : ""
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "blog"
 name                     : "Your name"
 description              : ""
 url                      : "https://rainclue0.github.io"
